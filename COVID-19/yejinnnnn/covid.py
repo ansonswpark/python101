@@ -7,3 +7,7 @@ for word in words:
 for word, count in wordCount.items():
     pritn(word, count)
 
+
+
+
+    
