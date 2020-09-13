@@ -1,0 +1,44 @@
+{
+    "news": [
+        {
+            "filename": "00.txt",
+            "url": "https://en.yna.co.kr/view/AEN20200905001700320"
+        },
+        {
+            "filename": "01.txt",
+            "url": "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-daily-roundup-september-3-2020"
+        },
+        {
+            "filename": "02.txt",
+            "url": "https://news.un.org/en/story/2020/09/1071662"
+        },
+        {
+            "filename": "03.txt",
+            "url": "https://www.globenewswire.com/news-release/2020/09/04/2089327/0/en/Relay-Fio-Corp-Address-Market-Development-and-Fionet-COVID-19-Applications.html"
+        },
+        {
+            "filename": "04.txt",
+            "url": "https://www.bbc.com/news/uk-england-birmingham-54040078"
+        },
+        {
+            "filename": "05.txt",
+            "url": "https://www.voakorea.com/coronavirus/india-coronavirus"
+        },
+        {
+            "filename": "06.txt",
+            "url": "http://dongascience.donga.com/news.php?idx=39525"
+        },
+        {
+            "filename": "07.txt",
+            "url": "http://www.newscj.com/news/articleView.html?idxno=776158"
+        },
+        {
+            "filename": "08.txt",
+            "url": "http://uberin.mk.co.kr/read.php?sc=51400001&year=2020&no=912153"
+        },
+        {
+            "filename": "09.txt",
+            "url": "https://www.huffingtonpost.kr/entry/south-korea-coronavirus-daily-update-06-sep_kr_5f5436b3c5b6578026cf06c0?utm_hp_ref=kr-covid-19"
+        }
+    ]
+}
