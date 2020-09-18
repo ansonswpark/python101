@@ -1,44 +1,46 @@
-# 단일 url이 주어졌을 때 해당 링크에서 text추
+# 함수 활용하기
+# 새로 배운 모듈 활용하기
+# 크롤링한 데이터를 다듬어주는 방법 생각해보기
 
-import urllib.request
-import bs4 
+# -*- coding: utf-8 -*-
+
+import os
 import json
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-import requests
+import urllib.request
 
-list_path = r'C:\Users\cubana\python101\COVID-19\news\news.json'
+def read_article_data(path):
+    with open(path) as fin:
+        return json.load(fin).get('news')
 
-#url 리스트 읽기
-def open_json_file(list_path):
-    with open(list_path) as json_file:
-        json_data = json.load(json_file)
-    return json_data
+def crawler(url):
+    hdr = {"User-Agent": "Chrome/66.0.3359.181"}
 
-#url 리스트 만들기
-def url_list():
-    b = []
-    for a in open_json_file(list_path)["news"]:
-        b.append(a["url"])
-    return b
+    req = urllib.request.Request(url, headers=hdr)
+    html = urlopen(req)
+    bsObj = BeautifulSoup(html, "lxml")
+    target_text = bsObj.text
+    return target_text
 
-#각각의 url에 해당하는 웹 페이지 내용을 읽어온다.
-def read_web_page():
-    for url in url_list():
-        html = urllib.request.urlopen(url)
-        bsObj = bs4.BeautifulSoup(html, 'lxml')
-    return print(bsObj)
-#url = 'https://en.yna.co.kr/view/AEN20200905001700320'
-#html = urllib.request.urlopen(url)
-#bsObj = bs4.BeautifulSoup(html, "lxml")
+def save_article_data(path, text):
+    with open(path, 'w', encoding="utf-8") as fout:
+        fout.writelines(text)
 
 
-read_web_page()
-#print(url_list())
+def main():
+    path_in_json = '\\Users\\cubana\\python101\\COVID-19\\news\\news.json'
+    path_out_dir = '\\Users\\cubana\\python101\\COVID-19\\sleetboy\\scrap_files'
 
-#article = bsObj.find("div", {"class":"article-story"})
-#target_text = article.text
-#path = 'C:/Users/cubana/python101/COVID-19/sleetboy/scrap_files/00.text'
-#with open(path, "w", encoding="utf-8") as file:
-#    file.writelines(target_text)
-#
+    # read input data
+    news = read_article_data(path_in_json)
+
+    # crawling
+    for article_info in news:
+        text = crawler(article_info.get('url'))
+        file_name = article_info.get('filename')
+        path_out = os.path.join(path_out_dir, file_name)
+        save_article_data(path_out, text)
+
+if __name__ == '__main__':
+    main()
