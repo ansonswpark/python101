@@ -1,0 +1,333 @@
+
+
+
+
+Relay & Fio Corp. Address Market Development and Fionet COVID-19 Applications Canadian Stock Exchange:RELA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+GlobeNewswire
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register
+Sign In
+
+
+
+
+English
+Français
+
+
+
+
+Contact Us
+Global Distribution
+Newswire Services
+Regulatory Filings
+Media Partners
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relay & Fio Corp. Address Market Development and Fionet COVID-19 Applications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print Friendly
+
+Share
+
+
+
+
+September 04, 2020 18:03 ET 
+
+ | Source: Relay Medical Corp.
+
+
+
+
+
+Government, Media, and Doctors Are Aligning on Need for Routine, Controlled Testing at Airports, Workplaces, Homes, and Other Decentralized LocationsHealth Canada has taken steps indicating the move toward mass distributed testing using rapid diagnostic tests which are compatible with the Fio solutionFionet Devices, usable by non-expert personnel, enables lab-grade diagnostic testing in pharmacies, workplaces, airports, clinics, nursing homes and other community-based locationsSimultaneously, Fionet Cloud relays real-time data for remote oversight of frontline testing activities and resultsFionet is compatible with rapid diagnostic tests (RDTs) from multiple suppliers, enabling agile testing programs and reducing supply chain constraints for RDTs TORONTO, Sept.  04, 2020  (GLOBE NEWSWIRE) -- Relay Medical Corp. (“Relay” or the “Company”) (CSE: RELA, OTC: RYMDF, Frankfurt: EIY2), and Fio Corporation (“Fio”), together Fionet Rapid Response Group (“FRR”) are pleased to announce an update on Health Canada’s recent statements and the opportunities created for Fionet. “Our government moved strongly towards taking the fight against COVID to mass community-based settings, where Canadians work, live, study, and travel. This is exactly the setting for which we developed Fionet, and where we already deployed Fionet in other countries to fight other infectious diseases,” said Dr Michael Greenberg, CEO of Fionet Rapid Response Group and CEO of Fio Corporation. “Fionet is a mobile testing and tracking platform that enables community-based return-to-work programs by performing at hospital-grade accuracy, yet in higher volume, faster-speed, less expensively, and with less-skilled frontline workers,” said Yoav Raiter, CEO, Relay Medical Corp. Health Canada announced new steps towards gaining control over the COVID-19 pandemic by supporting community-based testing solutions: (1) it will support enhanced solutions for airport testing; (2) it invited potential solutions to be submitted for home-testing; and, (3) it authorized clinical trials for rapid diagnostic tests (“RDTs”) which are fast, inexpensive test-strips that can be used in locations outside of laboratories and compatible with Fionet devices. Fionet devices are uniquely positioned to serve this need, as a multi-RDT diagnostic reader with lab quality performance for at-home and commercial on-site deployments. The Fionet Platform enables the expansion of testing and tracking to a multitude of community-based settings, including workplaces, airports, nursing homes, small clinics, schools, pharmacies, and home. Health Canada Pandemic Management  Health Canada Considers Home Testing This week Health Canada announced that they are willing to approve home based testing for screening devices, but remain concerned about the accuracy and potential error rates that may occur. Fionet can provide guided testing within the home using approved rapid diagnostic tests (RDTs) by allowing for health practitioners to do accurate, on-site testing within the home. Fionet can work with any approved RDT and take the burden and errors off manual interpretation of tests while capturing all relevant patient and test data. Fionet technology has been specifically developed for community-based ease of use, error reduction, and seamless data validation and collection. Fionet has already been submitted to Health Canada for expedited access to address community-based testing and tracking. https://www.cbc.ca/news/politics/health-canada-covid-home-test-1.5707740 https://www.ctvnews.ca/health/coronavirus/health-canada-now-considering-at-home-covid-19-tests-for-screening-purposes-1.5087719 Canadian and other Governments looking for Solutions for Air Travel As the number of cases with Coronavirus continues to increase, countries around the world are reviewing measures that can be taken to prevent the further spread of the virus. Currently, Canada has imposed a mandatory 14-day quarantine for returning travelers, but now is looking for solutions to reduce this need by using airport testing. The Fionet platform is uniquely suited to address this issue by enabling testing at the airport, or later at the place where a traveler is quarantined after traveling. Testing can be performed with diagnostic tests for which Fionet devices are adapted, returning results in 10-15min as travelers enter or leave the airport, and the testing managed by Fionet’s cloud-based software. Data captured in Fionet cloud can be synced with health and traveler databases to communicate results to cell phones and integrate with contact tracing apps helping to contain the spread of COVID-19 https://www.cbc.ca/news/study-pearson-airport-14-day-quarantine-1.5711879 https://ottawa.ctvnews.ca/federal-health-officials-examining-idea-of-testing-arriving-travellers-at-airports-for-covid-19-1.5085219 https://www.schengenvisainfo.com/news/swiss-airlines-covid-19-testing-should-become-mandatory-at-airports/ Shift to Community-Based Testing in General We believe the significance of these major steps is that our government, as well as those around the world, are looking to welcome routine testing in settings outside of laboratories. Fionet’s flexibility, step-by-step guided workflow, error-correction, automated test interpretation, and connectivity are indispensable for such a shift to be done with quality and continuous tracking. “These use-cases clearly demonstrate the broad scope that our platform addresses. The Fionet software is a foundation that can be built on to address the evolving market and regulatory landscape and make a difference in the global need for mass testing and returning to day to day life,” said Yoav Raiter, CEO, Relay Medical Corp. Fionet Rapid Response Group On August 19, 2020, Relay Medical Corp. and Fio Corporation announced a joint venture referred to as the Fionet Rapid Response Group to rapidly adapt, launch, and deploy the Fionet Platform for testing and tracking COVID-19.  Regulatory Status  Fionet has been submitted to Health Canada for regulatory approval under the new Interim Order (IO) mechanism for expedited access. Upon this outcome, Fionet will thereafter be submitted for expedited access approval by regulators in other international jurisdictions (eg. FDA). Fionet will be adapted only to rapid diagnostic tests (RDT) that are approved in the respective jurisdictions in which the platform will be deployed. **The Companies are not making any express or implied claims that its product has the ability to eliminate, cure or contain the COVID-19 (or SARS-2 Coronavirus) at this time. About Fio Corporation Fio Corporation, privately held and headquartered in Toronto, developed and markets the world’s first integrated guidance & tracking IT platform for decentralized healthcare settings, a new category of solution that raises healthcare quality and lowers healthcare costs. The platform enables average healthcare workers in clinics to deliver a new level of quality-controlled diagnostic testing and case management. Simultaneously, as an automated by-product of its clinical use, the platform captures and provides unprecedented frontline data to remote supervisors and stakeholders, enabling real-time remote tracking, insight distribution, and intervention. Fio operates globally in partnership with local distribution, service, and support organizations and also partners with other companies that license its technologies. Website: www.fio.com  About Relay Medical Corp.  Relay Medical is a MedTech innovation Company headquartered in Toronto, Canada focused on the development of novel technologies in the diagnostics and AI data science sectors. Website: www.relaymedical.com Contact: W. Clark Kent President Relay Medical Corp. Office. 647-872-9982 ext. 2 TF. 1-844-247-6633 ext. 2 investor.relations@relaymedical.com Bernhard Langer EU Investor Relations Office. +49 (0) 177 774 2314 Email: blanger@relaymedical.com Forward-looking Information Cautionary Statement Except for statements of historic fact, this news release contains certain “forward-looking information” within the meaning of applicable securities law. Forward-looking information is frequently characterized by words such as “plan”, “expect”, “project”, “intend”, “believe”, “anticipate”, “estimate” and other similar words, or statements that certain events or conditions “may” or “will” occur. Forward-looking statements are based on the opinions and estimates at the date the statements are made, and are subject to a variety of risks and uncertainties and other factors that could cause actual events or results to differ materially from those anticipated in the forward-looking statements including, but not limited to delays or uncertainties with regulatory approvals, including that of the CSE. There are uncertainties inherent in forward-looking information, including factors beyond the Company’s control. There are no assurances that the commercialization plans described in this news release will come into effect on the terms or time frame described herein. The Company undertakes no obligation to update forward-looking information if circumstances or management’s estimates or opinions should change except as required by law. The reader is cautioned not to place undue reliance on forward-looking statements. Additional information identifying risks and uncertainties that could affect financial results is contained in the Company’s filings with Canadian securities regulators, which filings are available at www.sedar.com   
+
+
+Related Articles
+More articles issued by Relay Medical Corp.
+More articles related to:
+ Partnerships 
+
+
+
+
+
+
+Profile
+
+Relay Medical Corp.
+
+
+
+
+
+
+  Subscribe via RSS
+ Subscribe via ATOM
+ Javascript
+
+
+
+  Etobicoke, Ontario, CANADA
+  http://www.relaymedical.com
+
+
+
+
+
+
+
+
+
+
+
+Media Files
+
+
+
+
+
+
+
+RelayMedical.png
+
+
+LOGO URL | Copy the link below
+            
+
+
+
+
+
+Formats available:
+
+
+
+
+
+
+                            Original
+                        
+
+
+
+
+                            Medium
+                        
+
+
+
+
+                            Small
+                        
+
+
+
+
+
+
+
+
+Tags
+covid testing technology
+aiport covid testing
+home testing covid
+at-home coronavirus test
+healthtech company covid
+COVID-19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newswire Distribution Network & Management
+
+
+
+Home
+Newsroom
+RSS Feeds
+Legal
+
+
+
+
+
+
+About Us
+GlobeNewswire is one of the world's largest newswire distribution networks, specializing in the delivery of corporate press releases financial disclosures and multimedia content to the media, investment community, individual investors and the general public.
+    
+
+
+
+© 2020 GlobeNewswire, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+Ok
+
+
+
+
+
+
+
